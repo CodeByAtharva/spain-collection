@@ -49,16 +49,29 @@ cd spaincollection-clone
 **Originial Website**
 ![App Screenshot](./img/og1.JPG)
 
+
+
 ![App Screenshot](./img/og2.JPG)
+
+
 
 ![App Screenshot](./img/og3.JPG)
 
+
+
 **Clone Website**
+
 ![App Screenshot](./img/my1.JPG)
+
+
 
 ![App Screenshot](./img/my2.JPG)
 
+
+
 ![App Screenshot](./img/my3.JPG)
+
+
 
 ![App Screenshot](./img/my4.JPG)
 
