@@ -8,7 +8,7 @@ function anime(){
         scrollTrigger:{
         trigger:"#display",
         start:"top top",
-        scrub:3,
+        scrub:1,
         pin:"#display"
     },
     width:"100%",
