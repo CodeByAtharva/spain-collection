@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 
 ## 🔗 Live Demo
-https://athrudev.github.io/spain-collection/
+https://CodeByAtharva.github.io/spain-collection/
 
 
 
