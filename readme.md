@@ -29,7 +29,7 @@ This project is a clone of the Spain Collection: https://spaincollection.com/ we
 
 1.	Clone the repository: 
 Bash
-git clone https://github.com/Athrudev/spaincollection-clone.git
+git clone https://github.com/CodeByAtharva/spain-collection.git
 
 2.	Navigate to the project directory: 
 Bash
